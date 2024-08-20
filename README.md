@@ -4,7 +4,7 @@ This is a simple web application for image classification using a pre-trained Mo
 
 ## Demo
 
-You can try the app live [here](https://image-classification-app-app-uhdbjfcmkfzunu4wb2fnw6.streamlit.app/).
+You can try the app live [here](https://imageclassificationwebapp-h3qz2cmjyr6aurtjpwep7g.streamlit.app/).
 
 ## Features
 
